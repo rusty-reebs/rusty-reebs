@@ -29,8 +29,6 @@ I'm &nbsp;🌱&nbsp; learning =>&nbsp;&nbsp;&nbsp;&nbsp;![NodeJS](https://img.sh
 
 ⚡️ **Fun fact**: I've been&nbsp; 🌍 &nbsp;traveling with my family and working remotely for&nbsp; **5️**✚ years!  
 
-![Visitor Count](https://profile-counter.glitch.me/{rusty-reebs}/count.svg)
-
 -----
 
 ### Read my recent blog posts on my portfolio site, [https://rustys.dev](https://rustys.dev).  
