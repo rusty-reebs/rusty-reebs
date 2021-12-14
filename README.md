@@ -33,7 +33,7 @@ I'm &nbsp;🌱&nbsp; learning =>&nbsp;&nbsp;&nbsp;&nbsp;![NodeJS](https://img.sh
 
 ### Read my recent blog posts on my portfolio site, [https://rustys.dev](https://rustys.dev).  
 
-[Committing to open source](https://rustys.dev/2021/12/13/committing-to-open-source.html)
+[Committing to open source](https://rustys.dev/2021/12/13/committing-to-open-source.html)  
 [Reactions to React](https://rustys.dev/2021/11/13/reactions-to-react.html)  
 [Unit Testing with Jest](https://rustys.dev/2021/10/18/unit-testing-with-jest.html)  
 [Having Fun with APIs](https://rustys.dev/2021/10/05/having-fun-with-apis.html)  
