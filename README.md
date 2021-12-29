@@ -27,12 +27,12 @@ I'm &nbsp;🌱&nbsp; learning -->&nbsp;&nbsp;![NodeJS](https://img.shields.io/ba
 
 [![Gmail Badge](https://img.shields.io/badge/-russ.salonen@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:russ.salonen@gmail.com)](mailto:russ.salonen@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Russell_Salonen-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/russell-salonen-721513216/)](https://www.linkedin.com/in/russell-salonen-721513216/)
 
-⚡️ **Fun fact**: I've been&nbsp; 🌍 &nbsp;traveling with my family and working remotely for&nbsp; **5️**✚ years!  
 
 -----
 
 ### Read my recent blog posts on my portfolio site, [https://rustys.dev](https://rustys.dev).  
 
+[Production delays](https://rustys.dev/2021/12/29/production-delays.html)  
 [Committing to open source](https://rustys.dev/2021/12/13/committing-to-open-source.html)  
 [Reactions to React](https://rustys.dev/2021/11/13/reactions-to-react.html)  
 [Unit testing with Jest](https://rustys.dev/2021/10/18/unit-testing-with-jest.html)  
