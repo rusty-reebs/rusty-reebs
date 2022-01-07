@@ -1,6 +1,6 @@
 ## 👋&nbsp; Hi, I'm Russell
 
-Nice to meet you! I'm a front end web developer from Canada. I'm having a blast coding all sorts of dynamic and interactive web projects! 🚀😃  
+Nice to meet you! I'm a full stack web developer from Canada. I'm having a blast coding all sorts of dynamic and interactive web projects! 🚀😃  
 
 
 I use everyday ---->&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)&nbsp;![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)&nbsp;  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
