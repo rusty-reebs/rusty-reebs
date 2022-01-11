@@ -32,6 +32,7 @@ I'm &nbsp;🌱&nbsp; learning -->&nbsp;&nbsp;![NodeJS](https://img.shields.io/ba
 
 ### Read my recent blog posts on my portfolio site, [https://rustys.dev](https://rustys.dev).  
 
+[Job ready](https://rustys.dev/2022/01/09/job-ready.html)  
 [Production delays](https://rustys.dev/2021/12/29/production-delays.html)  
 [Committing to open source](https://rustys.dev/2021/12/13/committing-to-open-source.html)  
 [Reactions to React](https://rustys.dev/2021/11/13/reactions-to-react.html)  
