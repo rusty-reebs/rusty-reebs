@@ -32,6 +32,7 @@ I'm &nbsp;🌱&nbsp; learning -->&nbsp;&nbsp;![TypeScript](https://img.shields.i
 
 ### Read my recent blog posts on my portfolio site, [https://rustys.dev](https://rustys.dev).  
 
+[Tinkering](https://rustys.dev//2022/04/14/tinkering.html)  
 [I'm not REST-ing, I'm building APIs](https://rustys.dev/2022/02/17/not-resting-building-apis.html)  
 [Carrying on with Node.js](https://rustys.dev/2022/01/17/carrying-on-with-node.html)  
 [Job ready](https://rustys.dev/2022/01/09/job-ready.html)  
